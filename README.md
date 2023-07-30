@@ -40,7 +40,7 @@ Create a Resource Group: Make sure to take note of the region you choose, you wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/i0fnssN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XNNZSdE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a Virtual Machine
@@ -52,20 +52,12 @@ Create a Virtual Machine
 <img src="https://i.imgur.com/tzdBZd2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Choose the same region you created for your Resource Group earlier.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/NBUQahW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 In Security Type select Standard
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/JZ9FPoy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NBUQahW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a username and password
