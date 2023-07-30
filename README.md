@@ -1087,7 +1087,7 @@ I recommend letting everything sit overnight to really see if more attacks happe
 <img src="https://i.imgur.com/gWZs6N1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This was the result after leaving everything running overnight into the next morning.
-**Remember to double-check your cost analysis in Azure**
+</p>*Remember to double-check your cost analysis in Azure**
 </p>
 <br />
 
@@ -1098,7 +1098,7 @@ I recommend letting everything sit overnight to really see if more attacks happe
 <img src="https://i.imgur.com/2mPirXK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Here is an example of some of the newly logged failed attempts in Powershell Ice in your Virtual Machine.
-**Remember to close everything, and delete all of your resource groups in Azure to make sure you don’t get any further charges.
+</p>*Remember to close everything, and delete all of your resource groups in Azure to make sure you don’t get any further charges.
 </p>
 <br />
 
