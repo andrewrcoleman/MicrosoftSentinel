@@ -324,14 +324,14 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rElHue0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the log you created
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PT6wqFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Add 
 </p>
@@ -339,59 +339,59 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aOikBjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Copy the public IP address for your VM
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VxBCDwq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>If you’re using a MAC Computer, download Microsoft Remote Desktop
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aBMcCIz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Click add  pc
+<p>Click Add  pc
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2P36nGl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Enter the public IP address of your Virtual Machine
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jrKTdD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Add
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2bnFR2i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Enter a random username and password, and you will see the failed log show up.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TlJvzKZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KNx7bPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Continue
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ds949B7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what it will look like if the login failed
 <p>Then enter the correct username and password to get into your Virtual Machine.
@@ -399,66 +399,66 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RKz0QMO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>This is what it should look like if you’ve logged in successfully.
+<p>This is what you should see if you’ve logged into your Virtual Machine successfully.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rNgtA2T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Turn all of these to No
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DHaIM8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Microsoft Edge
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u4F7e97.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Start without your data
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CmtNw4F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Continue without this data
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cl2uLWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Confirm and continue
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mCkIL31.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click confirm and start browsing
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BHlUbei.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>In the search bar type in Event Viewer
+<p>In the search bar in your Virtual Machine type in Event Viewer
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bd5PHCe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gIon2lC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Security 
 </p>
