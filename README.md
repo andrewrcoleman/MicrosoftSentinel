@@ -104,28 +104,28 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pFNyskp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Remove
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ig17R9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>Click Add an Inbound Rule
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fhoFdcL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what you will see before you make any changes
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g4yCS9P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p> Change Priority to 100, and name it DANGER_ANY_IN
@@ -133,84 +133,84 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dyJTTm5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5KAf0rH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>Click Add
 </p>Click Review + create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tuQIGZA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SBgpkXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>After you see validation passed, click Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KzVzDYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In the search bar type in Log Analytics workspace
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wYvsquk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create log analytics workspace
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eDhjVJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Choose the same Resource Group you created earlier
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0fi9fqr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>Enter a name for the log 
 </p>Ensure the region is the same as your Resource Group 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uE7Yhb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Review + Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7t24K0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>You should see Validation passed
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oj2x5eg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d7hVjp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Type in Security Center : Here you will enable the ability to capture logs from the VM into the log analytics workspace
+<p>Type in Security Center in Microsoft Azure: Here you will enable the ability to capture logs from the VM into the log analytics workspace
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gwG3Yvh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>Click Microsoft Defender for Cloud
 </p>
