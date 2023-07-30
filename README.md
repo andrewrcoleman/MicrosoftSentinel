@@ -253,7 +253,7 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yGgmtCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Data Collection
 </p>
@@ -261,63 +261,63 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xy9Lenm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click All Events
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c0lAido.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qix3x3A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Log Analytics Workspaces
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tiSPU53.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Choose the log you created
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sSCLnwI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Click Virtual Machines
+<p>Click Virtual Machines deprecated
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XjbUKRx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Choose your virtual machine
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XUyxiQL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click connect
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X9Nwez2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Search Microsoft Sentinel in the search bar at the top of the azure page.
+<p>Search Microsoft Sentinel in the search bar at the top of the Azure page.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aSoneaw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create Microsoft Sentinel
 </p>
