@@ -74,7 +74,7 @@ Take note of this, you will need it to log into the Virtual Machine.
 <br />
 
 <p>
-<img src="https://i.imgur.com/H6TeBAK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JZ9FPoy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Make sure this box is checked off
@@ -82,7 +82,7 @@ Make sure this box is checked off
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H6TeBAK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next to NIC network security group click Advanced
@@ -90,7 +90,7 @@ Next to NIC network security group click Advanced
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EmQXX9l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This will automatically pre-fill for you
@@ -98,14 +98,14 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u5ThMqp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create New
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3s44vAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the 3 dots to the far right
 </p>
