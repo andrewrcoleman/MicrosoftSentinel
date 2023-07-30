@@ -923,69 +923,55 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>Click
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>Click
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PQFtK0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Remove
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F3FkMad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click yes
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HH0dZ2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Click add
+<p>Click Add
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PmNSg9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Add query
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0uScgET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T32uTge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> Enter this script in the blank field under Log analytics workspace Logs Query
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I1IPxCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Run Query
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9pPvRfR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XN32UTz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Under Visualization
 <p>Click the drop-down and select Map
@@ -993,7 +979,7 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ozG9TM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what you will see in Map Settings
 Make sure color by has even_count selected from the dropdown menu
@@ -1001,80 +987,80 @@ Make sure color by has even_count selected from the dropdown menu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I5gGU0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Apply
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TVT581p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Under size for the map click large
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eW7VGRL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Go back to settings and for metric label select label from the drop-down menu
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rRsC0fS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Apply
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cS2M3qL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3MU06kR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what your map will look like so far, this should be an approximate of your location from the failed logon attempts earlier.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zyJTbeV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save and Close
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J7bouKZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save Icon
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HswAKVr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Name the workbook failed_RDP World Map
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IzvBzpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Apply
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZRxjJNM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Auto refresh from Off to 5mins
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0iGs0ft.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Apply
 Give it about an hour or so to start seeing attacks on your virtual machine
@@ -1082,14 +1068,14 @@ Give it about an hour or so to start seeing attacks on your virtual machine
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tn3GctQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Your location is red because your map settings are based on “event count” and you have the most so far.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S2ky8Yv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what the two attempts look like from Belize in PowerShell ICE.
 I recommend letting everything sit overnight to really see if more attacks happen….
@@ -1098,7 +1084,7 @@ I recommend letting everything sit overnight to really see if more attacks happe
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gWZs6N1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This was the result after leaving everything running overnight into the next morning.
 **Remember to double-check your cost analysis in Azure**
@@ -1106,18 +1092,18 @@ I recommend letting everything sit overnight to really see if more attacks happe
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a20Mpfy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2mPirXK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Here is an example of some of the new logged failed attempts in Powershell Ice in your Virtual Machine.
+<p>Here is an example of some of the newly logged failed attempts in Powershell Ice in your Virtual Machine.
 **Remember to close everything, and delete all of your resource groups in Azure to make sure you don’t get any further charges.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0taBRhx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what you should see when you click your Resource Group to ensure everything was deleted properly.
 </p>
