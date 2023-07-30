@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/1FpWBmh.png"/>
 </p>
 
-<h1>SIEM- Microsoft Sentinel Tutorial with Cyber Attacks - Prerequisites and Installation</h1>
+<h1>Security Information and Event Management (SIEM) - Microsoft Sentinel Tutorial with Cyber Attacks - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
