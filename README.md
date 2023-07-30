@@ -154,56 +154,56 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/KzVzDYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/axU0Ay0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In the search bar type in Log Analytics workspace
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/wYvsquk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dh9CQwv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create log analytics workspace
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/eDhjVJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/einKXeo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Choose the same Resource Group you created earlier
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/0fi9fqr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jgQCEAb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>Enter a name for the log 
 </p>Ensure the region is the same as your Resource Group 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uE7Yhb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CAaWqam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Review + Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/7t24K0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C7kbJhL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>You should see Validation passed
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oj2x5eg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p7uN3X4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/d7hVjp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H3kYlxV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Type in Security Center in Microsoft Azure: Here you will enable the ability to capture logs from the VM into the log analytics workspace
 </p>
