@@ -729,194 +729,194 @@ This will automatically pre-fill for you
 <p>
 <img src="https://i.imgur.com/Dfzn21c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>If you’re on a Mac computer open pages and  save the log to your computer in a text file
+<p>If you’re on a Mac computer open pages and  save the log to your computer as a Plain text file
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VCajC9I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DUNfUDG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Name it logfile
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/187hnKN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Export
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aoj61Aa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>After that go back to Azure in Log Analytics workspace and click the folder icon
+<p>After that go back to Azure in Log Analytics workspace
+ Click your workspace you created
+ Click custom logs on the left hand side
+ Click add a custom log
+ Then click the folder icon
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wj3KIH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Select the text file you just created of your logs
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ecmOgEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Next twice
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pbqUsc0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fJRfUuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4bNVXS6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Next Select Windows, and enter the path of the log file on your Virtual Machine
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8ntaQZD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Next
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JCaaDKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Create a custom log name
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ptAA559.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click next
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nGQ6JiW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>You should see all of these with a green checkmark if everything worked correctly
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AF6XoQp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4JOwjNq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>While your custom log is loading you can type in SecurityEvent 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Vw4Zes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nNB1bss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nQcxWUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o0ftYyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>Type in where then follow this path to get to event ID 4625
+ Click Run
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZuTxAmi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>These are the two incorrect attempts we did earlier
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kEBYps1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Notice 4625 An account failed to log on
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jtM9RyZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Try the custom log name  you created earlier FAILED_RDP_WITH_GEO_CL and Click Run
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MAWB1Oi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>After some time try the custom log you just created and it should bring up activity.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KUlSq8U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Setup map in sentinel with latitude and longitude
+<p>Setup map in Microsoft Sentinel with latitude and longitude
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1YHVLA5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click overview
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mFKSGsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click workbooks
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MhimYeW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click add workbook
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cTVujh3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Edit
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hb6WmsY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the 3 dots next to the two default widgets
 </p>
