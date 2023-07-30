@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/1FpWBmh.png"/>
 </p>
 
-<h1>Security Information and Event Management (SIEM) - Microsoft Sentinel Tutorial with Cyber Attacks - Prerequisites and Installation</h1>
+<h1>Security Information and Event Management (SIEM) - Microsoft Sentinel Tutorial with Cyber Attacks</h1>
 In this tutorial, I set up Microsoft Sentinel as a SIEM solution. I integrated it with a live virtual machine, allowing us to actively monitor and analyze real-time attacks, particularly focusing on RDP Brute Force attempts originating from various global locations. I also used a PowerShell script to extract and correlate the attackers’ geolocation information, enabling us to visualize and map their origins directly on the Microsoft Sentinel Map. This project showcases my expertise in cybersecurity, data analysis, and Azure Platform utilization. I’m confident this project will demonstrate how I can effectively bolster an organization’s security posture and incident response capabilities through advanced SIEM deployments and threat detection mechanisms.<br />
 
 
