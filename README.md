@@ -598,24 +598,24 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eyi4uRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TINkQVA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the blank sheet of paper icon (MEANS "NEW")
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6wCf13A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Paste the PowerShell script you copied earlier
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u7KLjsN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Go to this website and create an API key
 <p>Choose the paid version ($15) so you can get enough API Requests for the lab
@@ -623,45 +623,45 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zJHlFBi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Enter YOUR API Key in this section in between the quotation marks in the Powershell script
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cYTKf17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jX1uYks.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Save it on the Desktop
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lZFYJH5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Name it log_exporter
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KPeFAGg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lwdQQSM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xqAlJue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Copy the file path and enter it into the search bar in your Virtual Machine
 </p>
