@@ -663,73 +663,73 @@ This will automatically pre-fill for you
 <p>
 <img src="https://i.imgur.com/xqAlJue.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Copy the file path and enter it into the search bar in your Virtual Machine
+<p>Copy the log file path and enter it into the search bar in your Virtual Machine
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZmKZhHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Go back to the Powershell script and click the green play icon to run the script
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2dMDpDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what you should see if everything worked correctly.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JUQg41w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In C:\ProgramData\  click failed_rdp to see the log
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5zWCB6N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Go to Log Analytics workspaces
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WnPMcT8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the log analytics workspace you created earlier
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Nk3PK9U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Tables 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rwjI1j7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Create
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7PjkRws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Select New custom log (MMA-based)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WUswm6q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dfzn21c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>If you’re on a Mac computer open pages and  save it to your computer in a text file
+<p>If you’re on a Mac computer open pages and  save the log to your computer in a text file
 </p>
 <br />
 
