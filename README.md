@@ -217,28 +217,28 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n8Epg7J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Environment settings
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GgTbGZy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the drop-down next to Azure Subscription
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v46iG2j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the log analytics workspace you created
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SVc7iLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Turn on Foundational CSPM and Servers
 <p>Turn off SQL servers on machines
@@ -246,7 +246,7 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bfHpEO3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Save
 </p>
