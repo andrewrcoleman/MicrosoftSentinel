@@ -465,83 +465,83 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jytvFpk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Windows Logs
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Gvq7iM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is an example of a login attempt
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1iKQy6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Now attempt to log into your virtual machine again but fail on purpose
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9XaXxqy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Refresh in Event Viewer
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D9mAtuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>This is what a failed log-on will look like in Event Viewer
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xq7FTjs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Notice the fake username you used earlier when you logged in failed.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T55mbMo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In the search bar in your Virtual Machine type in command to bring up the command line.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/93lITJA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Sz81DMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Ping the virtual machine public IP Address add a space, then enter -t
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V8hQECN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>You will see the request time out consistently, you need to turn the firewall off.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xurw8A6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In the search bar in your Virtual Machine type in Firewall
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/97pFUug.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oNmdqXD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Advanced settings
 </p>
@@ -549,49 +549,49 @@ This will automatically pre-fill for you
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tPdbCps.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Windows Defender Firewall Properties
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TJHjilE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click each of these tabs and turn off the firewall
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8f2ddez.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click the drop-down next to firewall state and turn the firewall off
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9jzDOBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Click Apply
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Sqo5O2A.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Now you should be getting a response from the virtual machine.
+<p>Now you should be getting a response in the command line from your virtual machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sbIdP6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Go to this link to copy/paste the PowerShell script
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iXUzPwx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>In the search bar in your Virtual Machine search PowerShell ISE
 </p>
